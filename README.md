@@ -2,7 +2,7 @@
 ## My name is Matheus Dantas and my nickname is "Mat-Dantas"!
 
 
-:books: I'm currently studying Sistemas de Informação in Universidade Federal de Mato Grosso.
+:books: I'm currently studying Sistemas de Informação in Universidade Federal de Mato Grosso. <br>
 :computer: Along with it, i'm studying a lot of Front-End, like HTML, CSS, JavaScript.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
