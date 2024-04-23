@@ -10,7 +10,7 @@
 :books: I'm currently studying Sistemas de Informação in Universidade Federal de Mato Grosso. <br>
 :computer: Along with it, i'm studying a lot of Front-End, like HTML, CSS, JavaScript.
 
-## Estou aprendendo
+## Desenvolvedor
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="40" height="40"/>
           
