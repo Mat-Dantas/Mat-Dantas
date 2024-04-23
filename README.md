@@ -8,7 +8,7 @@
 
 
 :books: I'm currently studying Sistemas de Informação in Universidade Federal de Mato Grosso. <br>
-:computer: Along with it, i'm studying a lot of Front-End, like HTML, CSS, JavaScript.
+:computer: Along with it, i'm studying a lot of Front-End, PHP, HTML, CSS, JavaScript.
 
 ## Desenvolvedor
 
